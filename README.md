@@ -1,16 +1,24 @@
-# tasarim_calismasi
+# ✨ Very First Flutter UI Design
 
-A new Flutter project.
+## 📱 Project Overview
+This is my very first project built with Flutter. It is a simple UI design that helped me get familiar with basic Flutter widgets and layout structures. The app includes an `AppBar`, images, text, and `Card` widgets arranged in a clean layout.
 
-## Getting Started
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Material Design widgets
 
-This project is a starting point for a Flutter application.
+## 🧩 Features
+- Static page layout
+- AppBar with title
+- Cards displaying images and text
+- Simple, clean design for learning purposes
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Run
+Make sure Flutter is installed and properly set up on your machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/EfsaTortukk/very-first-flutter-design.git
+cd very-first-flutter-design
+flutter pub get
+flutter run
